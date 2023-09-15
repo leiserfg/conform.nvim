@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1](https://github.com/stevearc/conform.nvim/compare/v3.2.0...v3.2.1) (2023-09-15)
+
+
+### Bug Fixes
+
+* use non-deprecated health report functions if available ([#48](https://github.com/stevearc/conform.nvim/issues/48)) ([b436902](https://github.com/stevearc/conform.nvim/commit/b43690264ebcb152365d5b46faa6561f12ea062a))
+
 ## [3.2.0](https://github.com/stevearc/conform.nvim/compare/v3.1.0...v3.2.0) (2023-09-14)
 
 
